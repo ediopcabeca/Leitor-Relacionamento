@@ -1,0 +1,7 @@
+{
+  "name": "Leitor Relacionamento",
+  "description": "Mobile-first banking client management with AI-powered OCR and data extraction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
